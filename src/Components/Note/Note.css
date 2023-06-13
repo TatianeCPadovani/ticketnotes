@@ -1,0 +1,9 @@
+.note{
+    background-color: grey;
+    width: 300px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 20px;
+}
